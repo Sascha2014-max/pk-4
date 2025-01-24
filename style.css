@@ -3,16 +3,19 @@ h1 {
     background-color: DimGrey;
     color:white;
     font-size: 50px;
+}
 
 nav a{
     color:black;
     text-decoration: none;
     padding: 10px;
+}
 
   nav{
     text-align: center;
     background-color: DimGrey;
     padding: 20px;
+  }
 
   a {
     color: black;
@@ -23,30 +26,35 @@ nav a{
     border-radius: 5px;
     padding: 1px;
     margin: 20px;
+  }
 
     h2 {
 text-align: center;
     background-color: DimGrey;
     color:white;
     font-size: 50px;
+    }
 
     h3 {
 text-align: center;
     background-color: DimGrey;
     color:white;
     font-size: 50px;
+    }
 
       h4 {
 text-align: center;
     background-color: DimGrey;
     color:white;
     font-size: 50px;
+      }
 
       h5 {
 text-align: center;
     background-color: DimGrey;
     color:white;
     font-size: 50px;
+      }
           
           a {
             text-decoration: none; color: black;

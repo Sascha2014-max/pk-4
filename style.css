@@ -1,7 +1,7 @@
 h1 {
     text-align: center;
     background-color: DimGrey;
-    color:white;
+    color: white;
     font-size: 50px;
 }
 
@@ -32,7 +32,7 @@ nav a{
 text-align: center;
     background-color: DimGrey;
     color:white;
-    font-size: 50px;
+    font-size: 50px !importent;
     }
 
     h3 {
